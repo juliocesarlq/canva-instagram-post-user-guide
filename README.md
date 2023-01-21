@@ -58,7 +58,7 @@ Once your account has been successfully created you should be able to view the *
 
 3. Select from hundreds of pre-made templates. 
 
-[![3-B230-CDB-D4-FF-4633-B3-E5-7123-C6-D3-D3-B2.gif](https://i.postimg.cc/kMTn5qCv/3-B230-CDB-D4-FF-4633-B3-E5-7123-C6-D3-D3-B2.gif)](https://postimg.cc/8sr8K8j7)
+[![7-A9-D2-D87-1-E1-D-486-C-9-EAB-B8-EFE24-DB3-E9.gif](https://i.postimg.cc/1z1gKsfN/7-A9-D2-D87-1-E1-D-486-C-9-EAB-B8-EFE24-DB3-E9.gif)](https://postimg.cc/w1FTqK56)
 
 4. Customize text by selecting text element and tapping **Edit** in the bottom left corner. Type in your customized text. 
 
